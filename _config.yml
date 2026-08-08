@@ -7,7 +7,7 @@ first_name: Yashvi
 middle_name:
 last_name: Bulsara
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  The best way to contact me is via email.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
@@ -188,7 +188,11 @@ newsletter:
 # Collections
 # -----------------------------------------------------------------------------
 
-collections: {}
+collections:
+  news:
+    defaults:
+      layout: post
+    output: true
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
