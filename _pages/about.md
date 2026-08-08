@@ -2,14 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: >
+  Group of Ultrafast Optical Spectroscopy, Friedrich Schiller University, Jena.<br>
+  Innovent e.V - Technologieentwicklung, Jena.
 
 profile:
   align: right
   image: profile_picture.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Room 104</p>
+    <p>Room 104,</p>
     <p>Helmholtzweg 5</p>
     <p>Jena, Thüringen 07743</p>
 
