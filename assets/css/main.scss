@@ -41,6 +41,20 @@
   --global-bg-color: #ffc4cd;
 }
 
+/* Calibri when available locally; Carlito is the open lookalike web font */
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.post-title,
+.navbar,
+.desc {
+  font-family: Calibri, Carlito, "Segoe UI", sans-serif;
+}
+
 /* Slightly smaller profile photo (theme default is 30%) */
 @media (min-width: 576px) {
   .profile {
