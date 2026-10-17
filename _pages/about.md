@@ -37,11 +37,11 @@ I completed my **BSc (Hons.) in Physics** at **Pandit Deendayal Energy Universit
 
 My current research interests are shaped primarily by my work at **Friedrich Schiller University Jena**, where I investigate **hybrid semiconductor systems** combining **two-dimensional transition-metal dichalcogenides (TMDs)** with **one-dimensional nanowires**. I am particularly interested in **1D–2D heterostructures**, **nanoscale field-effect devices**, **light–matter interaction in low-dimensional materials**, and **optoelectronic and nanophotonic** device concepts.
 
-I like to read **suspence-novels** and  watch **star-wars** with my loved ones.
+I like to read **suspence-novels** and watch **star-wars** with my loved ones.
 
 ## Research at Friedrich Schiller University Jena
 
-At **Friedrich Schiller University Jena**, I work with the **GUFOS group at the Institute of Solid State Physics (IFK)** under [Prof. Dr. Soavi, Giancarlo](https://scholar.google.com/citations?user=NAibx88AAAAJ&hl=it)  on hybrid nanoscale semiconductor devices based on **transition-metal dichalcogenides (TMDs) and nanowires**.
+At **Friedrich Schiller University Jena**, I work with the **GUFOS group at the Institute of Solid State Physics (IFK)** under [Prof. Dr. Soavi, Giancarlo](https://scholar.google.com/citations?user=NAibx88AAAAJ&hl=it) on hybrid nanoscale semiconductor devices based on **transition-metal dichalcogenides (TMDs) and nanowires**.
 
 My work focuses on the development of **hybrid field-effect transistors (FETs)** that combine two-dimensional TMD materials with one-dimensional semiconductor nanowires. The project involves **material synthesis, device fabrication, electrical and optical characterization, and cleanroom processing**, providing hands-on experience with the fabrication and investigation of nanoscale optoelectronic devices.
 
