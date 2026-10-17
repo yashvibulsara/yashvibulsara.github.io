@@ -24,6 +24,20 @@
                 <a class="news-title" href="{{ item.url | relative_url }}">{{ item.title }}</a>
               {% endif %}
             </td>
+            <td class="text-end align-middle" style="width: 1%; white-space: nowrap">
+              {% if item.pdf %}
+                <a
+                  href="{{ item.pdf | relative_url }}"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  title="Open poster PDF"
+                  aria-label="Open poster PDF"
+                  style="font-size: 1.75rem; line-height: 1; color: #c62828"
+                >
+                  <i class="fa-solid fa-file-pdf"></i>
+                </a>
+              {% endif %}
+            </td>
           </tr>
         {% endfor %}
       </table>
